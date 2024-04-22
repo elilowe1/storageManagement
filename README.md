@@ -30,5 +30,7 @@ This Python program implements an in-memory key-value database with transaction 
 
 
 ## Modification to become an "official" assignment in the future
-1. Alllow multiple users to make transactions
-2. Make authentication so only certain users can access certain data/transactions
+- Alllow multiple users to make transactions
+- Make authentication so only certain users can access certain data/transactions
+- Unit tests to ensure the correctness of each function
+- 
