@@ -115,7 +115,7 @@ def user_input():
         print("4. Commit transaction")
         print("5. Rollback transaction")
         print("6. Exit")
-        print("7. Run Given Example Code")
+        print("7. Run given example code")
 
         choice = input("\nEnter your choice: ")
 
